@@ -1,0 +1,22 @@
+{
+    "name": "Whatsapp Audio 2x",
+    "version": "1.1",
+    "author": "Zastrich",
+    "homepage_url": "https://code200.com.br",
+    "description": "Aumenta a velocidade dos áudios no Whatsapp Web",
+    "manifest_version": 2,
+    "content_scripts": [
+        {
+            "matches": ["https://web.whatsapp.com/"],
+            "css": ["style.css"],
+            "js": ["content.js"],
+            "run_at": "document_end"
+        }
+    ],
+    "icons": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "96": "icon96.png",
+        "128": "icon128.png"
+    }
+}

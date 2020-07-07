@@ -1,0 +1,16 @@
+.btn2x {
+    width: 24px;
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--panel-header-icon);
+}
+
+.btn2x.active {
+    color: #009588;
+    width: 22px;
+}
+
+.PVMjB.active {
+    border: solid 1px #009588;
+    height: 22px;
+}

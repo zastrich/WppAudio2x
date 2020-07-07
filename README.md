@@ -2,7 +2,7 @@
 
 # Extensão para navegadores Chromium que acelera os áudios do Whatsapp em 2x
 
-[![Awesome Badges](https://img.shields.io/badge/use-Javascript%20-F7DF1E.svg?logo=JavaScript)](https://www.javascript.com/) [![Awesome Badges](https://img.shields.io/badge/ext-Google%20Chrome-4285F4.svg?logo=Google%20Chrome)](https://www.google.com/intl/pt-BR/chrome/) [![Awesome Badges](https://img.shields.io/badge/ext-Microsoft%20Edge-0078D7.svg?logo=Microsoft%20Edge)](https://www.google.com/intl/pt-BR/chrome/) [![Awesome Badges](https://img.shields.io/badge/by-zastrich-red.svg)](https://code200.com.br/) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+[![Awesome Badges](https://img.shields.io/badge/use-Javascript%20-F7DF1E.svg?logo=JavaScript)](https://www.javascript.com/) [![Awesome Badges](https://img.shields.io/badge/ext-Google%20Chrome-4285F4.svg?logo=Google%20Chrome)](https://www.google.com/intl/pt-BR/chrome/) [![Awesome Badges](https://img.shields.io/badge/ext-Microsoft%20Edge-0078D7.svg?logo=Microsoft%20Edge)](https://www.microsoft.com/pt-br/edge) [![Awesome Badges](https://img.shields.io/badge/by-zastrich-red.svg)](https://code200.com.br/) [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
 
 > É livre a colaboração nesse projeto.
